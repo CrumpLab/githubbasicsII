@@ -10,5 +10,15 @@ knitr::opts_chunk$set(
 ```
 
 ```{r setup}
-library(githubbasicsII)
+#library(githubbasicsII)
 ```
+
+add some text
+
+```{r}
+hist(cars$speed)
+```
+
+asdfasdf
+
+
